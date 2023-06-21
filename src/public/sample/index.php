@@ -15,8 +15,8 @@ unset($_SESSION['errorMessage']);
     <table>
 
       <tr>
-        <td><p>時間(分)</p></td>
-        <td><p><input type="number" name="time" placeholder="分"></p></td>
+        <td><p>時間</p></td>
+        <td><p><input type="number" name="time" placeholder="時間"></p></td>
       </tr>
 
     </table>
